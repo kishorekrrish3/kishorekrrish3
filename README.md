@@ -16,7 +16,7 @@
 ---
 
 ### 🔭 Currently Working On  
-[[**Multimodal MCI Diagnosis Using EEG, Speech and Behavioral Cues**](https://github.com/kishorekrrish3/Multimodal-MCI-Diagnosis-Using-EEG-Speech-Behavioral-Cues)](https://github.com/kishorekrrish3/Multimodal-MCI-Detection-Using-EEG-and-Behavioral-Cues)
+[**Multimodal MCI Diagnosis Using EEG, Speech and Behavioral Cues**](https://github.com/kishorekrrish3/Multimodal-MCI-Diagnosis-Using-EEG-Speech-Behavioral-Cues)
 
 ### 🌱 Currently Learning  
 **DevOps, ASP.NET, Flask, Django, and APIs**
