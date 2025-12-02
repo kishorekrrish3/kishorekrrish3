@@ -91,16 +91,3 @@ All of my projects are available at: [**kishore-p-portfolio.vercel.app**](https:
 </div>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorekrrish3&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorekrrish3&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekrrish3" alt="GitHub Streak" />
-</p>
