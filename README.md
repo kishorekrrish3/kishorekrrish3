@@ -3,18 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishorekrrish3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kishorekrrish3&theme=onedark&row=1&column=6" alt="Trophies" />
-  </a>
-</p>
-
----
-
 ### 🔭 Currently Working On  
 [**Multimodal MCI Diagnosis Using EEG and Behavioral Cues**](https://github.com/kishorekrrish3/Multimodal-MCI-Detection-Using-EEG-and-Behavioral-Cues)
 
