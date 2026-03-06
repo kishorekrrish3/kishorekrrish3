@@ -4,7 +4,7 @@
 ---
 
 ### 🔭 Currently Working On  
-[**Multimodal MCI Diagnosis Using EEG and Behavioral Cues**](https://github.com/kishorekrrish3/Multimodal-MCI-Detection-Using-EEG-and-Behavioral-Cues)
+[**Lumina RAG**](https://github.com/kishorekrrish3/Lumina-RAG)
 
 ### 🌱 Currently Learning  
 **DevOps, ASP.NET, Flask, Django, and APIs**
