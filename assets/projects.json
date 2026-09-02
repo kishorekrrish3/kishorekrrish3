@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "Lumina-RAG",
+      "description": "Autonomous Knowledge Acquisition for Self-Improving Retrieval-Augmented Generation."
+    },
+    {
+      "repo": "DevEvents",
+      "description": "A modern, production-ready developer event discovery platform built with Next.js 16, MongoDB, and PostHog analytics."
+    },
+    {
+      "repo": "SentinelAI",
+      "description": "An AI-powered security platform and browser extension detecting phishing, spam, and social engineering in real time."
+    },
+    {
+      "repo": "AutoGradeAI",
+      "description": "Intelligent OCR and semantic similarity grading system for handwritten student answers using SentenceTransformers."
+    }
+  ]
+}
